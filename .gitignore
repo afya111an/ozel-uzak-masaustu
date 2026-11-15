@@ -3,3 +3,5 @@ kopru/
 
 # Bellek eklentisinin kendi urettigi oturum notu depoya girmez
 .anchor/
+# Sohbet disa aktarimlari depoya girmez (kisisel bilgi icerebilir)
+.claude/chat-exports/
