@@ -1,2 +1,5 @@
 # Kopru yerel verisi depoya girmez (asil yeri %LOCALAPPDATA%; bu satir yalniz guvence)
 kopru/
+
+# Bellek eklentisinin kendi urettigi oturum notu depoya girmez
+.anchor/
